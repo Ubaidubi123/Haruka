@@ -52,7 +52,7 @@
 
 ## FOR RAILWAY USER 
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Fzeeone-ofc%2FAlphabot-Md)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/rifas9037/Haruka)
 
 [`Click Here For Tutorial`](https://youtu.be/BqRauxohbLg)<br>
 
